@@ -1,1 +1,1 @@
-hi
+print("Hillo, World!")  # This prints a greeting message
